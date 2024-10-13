@@ -1,4 +1,4 @@
-[Back to Index](./O-index)  [Previous.Page](./Page-1_Single_AND_MultiLayers_Perceptrons.md)  [Next.Page](./Page-3_MultiClassClassification.md)
+[Back to Index](./O-index.md)  [Previous.Page](./Page-1_Single_AND_MultiLayers_Perceptrons.md)  [Next.Page](./Page-3_MultiClassClassification.md)
 In neural networks, **activation functions** introduce non-linearity to the model, allowing it to learn and represent more complex patterns and relationships. Without activation functions, the neural network would be a purely linear transformation, no more powerful than a single-layer perceptron, which would severely limit its ability to model real-world problems.
 
 Activation functions operate on the neurons' output after the weighted sum of inputs has been computed, transforming the input signal before passing it to the next layer or producing the final output.
@@ -90,4 +90,4 @@ The non-linearity introduced by these activation functions enables the network t
 | Swish                   | (-∞, ∞)         | Smooth gradient, non-monotonic   | Slightly slower than ReLU       | Deep networks                   |
 
 These activation functions are fundamental to how neural networks learn and generalize from data, making them crucial components in modern machine learning models.
-[Back to Index](./O-index)  [Previous.Page](./Page-1_Single_AND_MultiLayers_Perceptrons.md)  [Next.Page](./Page-3_MultiClassClassification.md)
+[Back to Index](./O-index.md)  [Previous.Page](./Page-1_Single_AND_MultiLayers_Perceptrons.md)  [Next.Page](./Page-3_MultiClassClassification.md)
