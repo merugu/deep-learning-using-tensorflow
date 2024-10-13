@@ -102,5 +102,41 @@ This problem led to the development of **multilayer perceptrons (MLPs)** and **b
 ### Summary
 The perceptron is a simple linear classifier that makes predictions based on a weighted sum of input features. While it has limitations, it introduced the foundational concepts for modern neural networks, such as weights, bias, activation functions, and learning algorithms.
 
-[Back to Index](./index.md)
+### Multi-Layer Perceptrons (MLPs)
+
+**Multi-Layer Perceptrons (MLPs)** are a type of artificial neural network (ANN) that consist of multiple layers of neurons. They are a foundational concept in deep learning and are widely used for various tasks in machine learning, including classification and regression.
+
+### Structure of Multi-Layer Perceptrons
+
+1. **Input Layer**: 
+   - The first layer of the MLP, which receives the input data. Each neuron in this layer corresponds to a feature in the input data.
+
+2. **Hidden Layers**: 
+   - One or more layers between the input and output layers. Each neuron in a hidden layer takes input from the neurons of the previous layer, applies a weighted sum followed by an activation function, and passes the output to the next layer. The presence of multiple hidden layers allows MLPs to learn complex representations of the data.
+
+3. **Output Layer**: 
+   - The final layer that produces the output of the network. The number of neurons in the output layer corresponds to the number of classes for classification tasks or the number of output features for regression tasks.
+
+### Key Features
+
+- **Activation Functions**: Each neuron in the hidden and output layers typically uses an activation function (e.g., sigmoid, ReLU, tanh) to introduce non-linearity into the model, allowing it to learn complex patterns.
+  
+- **Feedforward Architecture**: In an MLP, information flows in one direction, from the input layer to the output layer, without any cycles or loops.
+
+- **Training with Backpropagation**: MLPs are trained using the backpropagation algorithm, which adjusts the weights of the connections based on the error of the predictions, enabling the network to learn from the training data.
+
+### Applications
+
+Multi-Layer Perceptrons can be applied in various domains, including:
+
+- **Image Classification**: Recognizing objects within images.
+- **Speech Recognition**: Converting spoken language into text.
+- **Financial Forecasting**: Predicting stock prices or economic trends.
+- **Medical Diagnosis**: Assisting in diagnosing diseases based on patient data.
+
+### Summary
+
+Yes, Multi-Layer Perceptrons are a type of neural network that consists of multiple layers of interconnected neurons. They are capable of learning complex patterns in data and are a fundamental building block for more advanced neural network architectures, such as Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs).
+
+[Back to Index](./index.md) [Next.Page](./Page-2_ActivationFunctions.md)
 
