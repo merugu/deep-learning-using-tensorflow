@@ -1,4 +1,4 @@
-[Back to Index](./index.md)[Previous.Page](./Page-4_MutuallyExclusiveClasses.md)[Next.Page](./Page-6_Backpropagation.md)
+[Back to Index](./index.md)  [Previous.Page](./Page-4_MutuallyExclusiveClasses.md)  [Next.Page](./Page-6_Backpropagation.md)
 
 ### Cost Functions and Gradient Descent
 
@@ -146,4 +146,4 @@ Here, \( \hat{y} \) is the predicted probability, and the parameters \( w \) and
 
 Together, cost functions and gradient descent enable machine learning models to learn and improve by minimizing errors.
 
-[Back to Index](./index.md)[Previous.Page](./Page-4_MutuallyExclusiveClasses.md)[Next.Page](./Page-6_Backpropagation.md)
+[Back to Index](./index.md)  [Previous.Page](./Page-4_MutuallyExclusiveClasses.md)  [Next.Page](./Page-6_Backpropagation.md)

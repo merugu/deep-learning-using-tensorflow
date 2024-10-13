@@ -1,4 +1,4 @@
-[Back to Index](./index.md)[Previous.Page](./Page-2_ActivationFunctions.md)[Next.Page](./Page-4_MutuallyExclusiveClasses.md)
+[Back to Index](./index.md) [Previous.Page](./Page-2_ActivationFunctions.md)  [Next.Page](./Page-4_MutuallyExclusiveClasses.md)
 
 **Multiclass classification** is a type of machine learning problem where the task is to categorize instances into one of three or more classes (categories). Unlike binary classification, which deals with only two possible outcomes, multiclass classification involves multiple possible outcomes for a given input.
 
@@ -64,4 +64,4 @@
 - Models like **decision trees**, **random forests**, and **k-NN** handle multiclass classification natively.
 - Evaluation is done using metrics like accuracy, precision, recall, and F1-score, along with confusion matrices.
 
-[Back to Index](./index.md)[Previous.Page](./Page-2_ActivationFunctions.md)[Next.Page](./Page-4_MutuallyExclusiveClasses.md)
+[Back to Index](./index.md)  [Previous.Page](./Page-2_ActivationFunctions.md)  [Next.Page](./Page-4_MutuallyExclusiveClasses.md)
