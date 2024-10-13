@@ -1,4 +1,4 @@
-# Welcome to My Documentation
+# Welcome to ML Documentation
 
 This is the main index page for the documentation. Below are links to the five different sections of the content.
 

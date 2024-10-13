@@ -1,4 +1,4 @@
-[Back to Index](./index.md)  [Previous.Page](./Page-5_Cost-Functions-Gradient-Descent.md)  [Next.Page](./Page-1_Single_AND_MultiLayers_Perceptrons.md)
+[Back to Index](./O-index)  [Previous.Page](./Page-5_Cost-Functions-Gradient-Descent.md)  [Next.Page](./Page-1_Single_AND_MultiLayers_Perceptrons.md)
 
 ### Backpropagation
 
@@ -186,4 +186,4 @@ Using gradient descent, update the weights and biases for both layers.
 ### Summary
 Backpropagation is the key algorithm for training deep learning models. It allows neural networks to "learn" by minimizing the error between predicted and actual outputs. By adjusting the weights using gradient descent, the network gradually improves its predictions.
 
-[Back to Index](./index.md)  [Previous.Page](./Page-5_Cost-Functions-Gradient-Descent.md)  [Next.Page](./Page-1_Single_AND_MultiLayers_Perceptrons.md)
+[Back to Index](./O-index)  [Previous.Page](./Page-5_Cost-Functions-Gradient-Descent.md)  [Next.Page](./Page-1_Single_AND_MultiLayers_Perceptrons.md)

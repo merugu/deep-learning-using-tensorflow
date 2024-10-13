@@ -1,4 +1,4 @@
-[Back to Index](./index.md)  [Previous.Page](./Page-3_MultiClassClassification.md)  [Next.Page](./Page-5_Cost-Functions-Gradient-Descent.md)
+[Back to Index](./O-index)  [Previous.Page](./Page-3_MultiClassClassification.md)  [Next.Page](./Page-5_Cost-Functions-Gradient-Descent.md)
 
 
 **Mutually exclusive classes** refer to a classification scenario where each instance (or data point) can belong to only **one class** and **one class only**. This means that the classes do not overlap, and no instance can be assigned to more than one class at the same time. In such cases, the classification task assigns a single label to each instance, and the model predicts one of the mutually exclusive classes.
@@ -41,4 +41,4 @@ In some scenarios, classes are **not mutually exclusive**. This is called **mult
 - It’s a common scenario in multiclass classification tasks where instances are distinctly categorized.
 - The output is a single label, and methods like **softmax** in neural networks are used to handle these scenarios.
 
-[Back to Index](./index.md)  [Previous.Page](./Page-3_MultiClassClassification.md)  [Next.Page](./Page-5_Cost-Functions-Gradient-Descent.md)
+[Back to Index](./O-index)  [Previous.Page](./Page-3_MultiClassClassification.md)  [Next.Page](./Page-5_Cost-Functions-Gradient-Descent.md)

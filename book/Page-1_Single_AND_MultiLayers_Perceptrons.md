@@ -1,4 +1,4 @@
-Perceptron [Back to Index](./index.md)
+Perceptron [Back to Index](./O-index)
 
 
 A **perceptron** is the simplest type of artificial neural network and serves as the fundamental building block for more complex neural networks. It's a type of binary classifier that models the behavior of a single neuron, capable of making predictions based on a linear combination of input features. The perceptron was first introduced by **Frank Rosenblatt** in 1958.
@@ -138,5 +138,5 @@ Multi-Layer Perceptrons can be applied in various domains, including:
 
 Yes, Multi-Layer Perceptrons are a type of neural network that consists of multiple layers of interconnected neurons. They are capable of learning complex patterns in data and are a fundamental building block for more advanced neural network architectures, such as Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs).
 
-[Back to Index](./index.md)  [Next.Page](./Page-2_ActivationFunctions.md)
+[Back to Index](./O-index)  [Next.Page](./Page-2_ActivationFunctions.md)
 
