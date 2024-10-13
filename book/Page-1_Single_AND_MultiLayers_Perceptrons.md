@@ -138,5 +138,5 @@ Multi-Layer Perceptrons can be applied in various domains, including:
 
 Yes, Multi-Layer Perceptrons are a type of neural network that consists of multiple layers of interconnected neurons. They are capable of learning complex patterns in data and are a fundamental building block for more advanced neural network architectures, such as Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs).
 
-[Back to Index](./index.md) [Next.Page](./Page-2_ActivationFunctions.md)
+[Back to Index](./index.md)  [Next.Page](./Page-2_ActivationFunctions.md)
 
