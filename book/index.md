@@ -4,7 +4,7 @@ This is the main index page for the documentation. Below are links to the five d
 
 ## Table of Contents
 
-1. [Perceptron](./Page-1_Single_AND_MultiLayers_Perceptrons)
+1. [Perceptron](./Page-1_Single_AND_MultiLayers_Perceptrons.md)
    - Understand the foundation of neural networks with single-layer perceptrons.
    
 2. [ActivationFunctions](./Page-2_ActivationFunctions.md)
